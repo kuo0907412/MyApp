@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_speach">SpeahText</string>
+    <string name="title_gsensor">Gsensor</string>
+    <string name="title_record">CarRecord</string>
+    <string name="timer">timer</string>
+    <string name="setting">setting</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="start_rec">startRecord</string>
+    <string name="please_talk">Please Talk</string>
+</resources>

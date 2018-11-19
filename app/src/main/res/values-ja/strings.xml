@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">マイアプリ</string>
+    <string name="title_home">ホーム</string>
+    <string name="title_speach">スピーチ</string>
+    <string name="title_gsensor">Gセンサー</string>
+    <string name="title_record">レコーダー</string>
+    <string name="timer">タイマー（秒）</string>
+    <string name="setting">設定</string>
+    <string name="start">開始</string>
+    <string name="stop">停止</string>
+    <string name="start_rec">ドラレコ開始</string>
+    <string name="creating">作成中</string>
+    <string name="please_talk">音声で入力してください</string>
+
+</resources>
